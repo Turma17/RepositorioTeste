@@ -13,7 +13,7 @@ public class Bancointer {
 	
 	WebDriver navegador;
 	
-fsdfadgdgdfgdfsgsfgf
+
 	@Before
 	public void setUp() throws Exception {
 		System.setProperty("webdriver.chrome.driver", "./Driver/chromedriver.exe");
